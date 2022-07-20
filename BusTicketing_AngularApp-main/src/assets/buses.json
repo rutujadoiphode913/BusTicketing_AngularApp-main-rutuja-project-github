@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "Bus Name":"Green Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Mahape",
+        "Destination":"Thane",
+        "Fare":600,
+        "Coach Type":"AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 2,
+        "Bus Name":"Green Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Mahape",
+        "Destination":"Powai",
+        "Fare":600,
+        "Coach Type":"AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 3,
+        "Bus Name":"Green Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Mahape",
+        "Destination":"Navi Mumbai",
+        "Fare":600,
+        "Coach Type":"AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 4,
+        "Bus Name":"Green Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Mahape",
+        "Destination":"Airoli",
+        "Fare":600,
+        "Coach Type":"AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 5,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Mahape",
+        "Destination":"Thane",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 6,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Mahape",
+        "Destination":"Powai",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 7,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Mahape",
+        "Destination":"Navi Mumbai",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 8,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Navi Mumbai",
+        "Destination":"Airoli",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 9,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Thane",
+        "Destination":"Airoli",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 10,
+        "Bus Name":"Green Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Thane",
+        "Destination":"Mahape",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 11,
+        "Bus Name":"Green Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Thane",
+        "Destination":"Powai",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 12,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Thane",
+        "Destination":"Navi Mumbai",
+        "Fare":500,
+        "Coach Type":"AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 13,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Navi Mumbai",
+        "Destination":"Mahape",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 14,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Navi Mumbai",
+        "Destination":"Powai",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    },
+    {
+        "id": 15,
+        "Bus Name":"Blue Line Transport",
+        "Departure Time":"10:00 AM",
+        "Source":"Navi Mumbai",
+        "Destination":"Thane",
+        "Fare":500,
+        "Coach Type":"Non AC",
+        "Seats Available": 36,
+        "bookings":{}
+    }
+]
